@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about any question related to Python
 - 📫 How to reach me: chienvt197@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: Dancing in the rain
+- ⚡ Point: Dancing in the rain
 
 ![Chien's GitHub stats](https://github-readme-stats.vercel.app/api?username=irobo197&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
